@@ -15,4 +15,4 @@ Decodo extension download and setup guide for Chrome:
 
 6. Once you have imported it, a new extension should be added:
 
-<img src="https://snipboard.io/XUCzSF.jpg">
+<img src="https://snipboard.io/IQXaNj.jpg">
